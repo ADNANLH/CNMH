@@ -10,15 +10,15 @@
 
 
 # Charte graphique
-[color palette](https://color.adobe.com/fr/create/color-wheel) 
+[palette couleur](https://color.adobe.com/fr/create/color-wheel) 
 
 [charte graphique](https://docs.google.com/document/d/1avWRTeFwcuZRN-VnZd5rcFP2J2mnGhAlxkGRyVZSGDk/edit)
 
-# Theme Presentation
+# Theme de Présentation
 
 [Theme de présentation](https://docs.google.com/presentation/d/1wlWOs51PktniqZg0dg993LlkrrgIIgD2bcYuloskamw/edit#slide=id.p)
 
-## Logo image
+## Logo & images
 
 
 [tout les logo utilisé](https://docs.google.com/document/d/1WfMe91BvddGaOmxz0usR-dpOietgO5iYy1aYWl-gw2s/edit?usp=sharing)
