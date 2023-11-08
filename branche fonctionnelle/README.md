@@ -16,7 +16,7 @@
 
 # Theme Presentation
 
-[Theme de présentation]([https://docs.google.com/presentation/d/1iipkAvkR68LQkmU8Gks_kWtWpdhh0VEgranMk800MWM/edit?usp=sharing](https://docs.google.com/presentation/d/1wlWOs51PktniqZg0dg993LlkrrgIIgD2bcYuloskamw/edit#slide=id.p))
+[Theme de présentation](https://docs.google.com/presentation/d/1wlWOs51PktniqZg0dg993LlkrrgIIgD2bcYuloskamw/edit#slide=id.p)
 
 ## Logo image
 [CNMH Logo ](https://lh3.googleusercontent.com/keep-bbsk/AG3SVnDNUqU1PnJgkvU3MgHGrSrUZ_9sQnnS41e5pPiXENGgzcb3RegIyv5B6uyTNh63FAFOVIB_ThhiSTm1XnI8Xpe1FRZXF5EkIT4MdE3qwejzWkA=s512)
