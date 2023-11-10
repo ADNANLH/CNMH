@@ -1,8 +1,12 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4 position-fixed" style="top: 0;">
     <!-- Brand Logo -->
     <a href="" class="brand-link">
-        <img src="./dist/img/WWW.png" alt="AdminLTE Logo" class="brand-image img-circle bg-white">
-        <span class="brand-text font-weight-light">SoliCoders</span>
+        <img src="../app/images/logo.png" alt="logo" class="brand-image img-circle bg-white">
+        <span class="brand-text font-weight-light">Solicoders | Trello</span>
+    </a>
+    <a href="" class="brand-link">
+        <img src="../app/images/user.jpg" alt="profile" class="brand-image img-circle bg-white " style="width: 33px; height: 33px;">
+        <span class="brand-text font-weight-light">Jacob</span>
     </a>
     <!-- Sidebar -->
     <div class="sidebar">
@@ -13,33 +17,33 @@
                 <li class="nav-item">
                     <a href="./index.php" class="nav-link">
                         <i class="nav-icon fas fa-terminal"></i>
-                        <p>Gestion des compétences</p>
+                        <p>Les projets</p>
                     </a>
                 </li>
                 <!-- Niveau Management -->
                 <li class="nav-item">
                     <a href="#" class="nav-link">
                         <i class="nav-icon fas fa-cog"></i>
-                        <p>Gestion des niveaux</p>
+                        <p>Les taches</p>
                     </a>
                 </li>
                 <!-- Interns Management -->
                 <li class="nav-item">
                     <a href="#" class="nav-link">
                         <i class="nav-icon fas fa-users"></i>
-                        <p>Gestion des stagiaires</p>
+                        <p>Les membres</p>
                     </a>
                 </li>
                 
                 <!-- Logout Button -->
-                <!-- <li class="nav-item">
+                <li class="nav-item ">
                     <a href="" class="nav-link">
                         <i class="nav-icon fas fa-sign-out-alt"></i>
                         <p>
-                            Logout
+                            Déconnecter
                         </p>
                     </a>
-                </li> -->
+                </li>
             </ul>
         </nav>
         <!-- /.sidebar-menu -->

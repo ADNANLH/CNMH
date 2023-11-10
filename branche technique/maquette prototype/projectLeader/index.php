@@ -25,7 +25,7 @@
                 <div class="container-fluid">
                     <div class="row mb-2">
                         <div class="col-sm-6">
-                            <h1 class="m-0">Compétences</h1>
+                            <h1 class="m-0">Les projets</h1>
                         </div>
                     </div>
                 </div>
@@ -43,10 +43,12 @@
                             <table class="table table-bordered">
                                 <thead>
                                     <tr>
-                                        <th>Code</th>
-                                        <th>Référence</th>
+                                        <th>N°</th>
                                         <th>Nom</th>
-                                        <th>Déscription</th>
+                                        <th>Description</th>
+                                        <th>Date début</th>
+                                        <th>Date fin</th>
+                                        <th>Les Taches</th>
                                         <th>Actions</th>
                                     </tr>
                                 </thead>
@@ -54,82 +56,31 @@
 
                                     <!-- Obtenez toutes les compétences -->
                                     <tr>
-                                        <td>C1</td>
-                                        <td>Maquette</td>
-                                        <td>Maquetter une application mobile</td>
-                                        <td>Maquetter une application mobile Maquetter une application mobile Maquetter une application mobile Maquetter une application mobile</td>
+                                        <td>1</td>
+                                        <td>Arbre des compétences</td>
+                                        <td></td>
+                                        <td>12-10-2023</td>
+                                        <td>22-10-2023</td>
+                                        <td><a href="#" class="btn btn-xs "><i class="nav-icon fas fa-eye"></i></a></td>
                                         <td>
-                                            <a href="./modifier-competence.php?Id=1" class="btn btn-xs btn-primary">Modifier</a>
-                                            <button class="btn btn-xs btn-danger swalDefaultSuccess" data-bs-toggle="modal" data-bs-target="#exampleModal">Supprimer</button>
+                                            <a href="#" class="btn btn-xs btn-primary"><i class="nav-icon fas fa-edit"></i></a>
+                                            
+                                            <button class="btn btn-xs btn-danger swalDefaultSuccess" data-bs-toggle="modal" data-bs-target="#exampleModal"><i class="nav-icon fas fa-trash"></i></button>
                                         </td>
                                     </tr>
-
                                     <tr>
-                                      <td>C2</td>
-                                      <td>Base Données</td>
-                                        <td>Manipuler une base de données - perfectionnement</td>
-                                        <td class="description">Manipuler une base de données -  perfectionnement perfectionnement perfectionnement perfectionnement </td>
+                                        <td>2</td>
+                                        <td>CNMH</td>
+                                        <td>projet pour le centre nationale de mohamed 6 des hendicapet</td>
+                                        <td>12-10-2023</td>
+                                        <td>22-10-2023</td>
+                                        <td><a href="#" class="btn btn-xs "><i class="nav-icon fas fa-eye"></i></a></td>
                                         <td>
-                                            <a href="./modifier-competence.php?Id=2" class="btn btn-xs btn-primary">Modifier</a>
-                                            <button class="btn btn-xs btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Supprimer</button>
+                                            <a href="#" class="btn btn-xs btn-primary"><i class="nav-icon fas fa-edit"></i></a>
+                                            
+                                            <button class="btn btn-xs btn-danger swalDefaultSuccess" data-bs-toggle="modal" data-bs-target="#exampleModal"><i class="nav-icon fas fa-trash"></i></button>
                                         </td>
                                     </tr>
-
-                                    <tr>
-                                      <td>C3</td>
-                                      <td>back-end</td>
-                                        <td>Développer la partie back-end d'une application we</td>
-                                        <td>Développer la partie back-end d'une application we</td>
-                                        <td>
-                                            <a href="./modifier-competence.php?Id=3" class="btn btn-xs btn-primary">Modifier</a>
-                                            <button class="btn btn-xs btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Supprimer</button>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                      <td>C4</td>
-                                      <td>gestion</td>
-                                        <td>Collaborer à la gestion d'un projet informatique e</td>
-                                        <td>Collaborer à la gestion d'un projet informatique e</td>
-                                        <td>
-                                            <a href="./modifier-competence.php?Id=4" class="btn btn-xs btn-primary">Modifier</a>
-                                            <button class="btn btn-xs btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Supprimer</button>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                      <td>C5</td>
-                                      <td>Mobile native</td>
-                                        <td>Développer une application mobile native, avec And</td>
-                                        <td>Développer une application mobile native, avec And</td>
-                                        <td>
-                                            <a href="./modifier-competence.php?Id=5" class="btn btn-xs btn-primary">Modifier</a>
-                                            <button class="btn btn-xs btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Supprimer</button>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                      <td>C6</td>
-                                      <td>tests</td>
-                                        <td>Préparer et exécuter les plans de tests d'une appl</td>
-                                        <td>Préparer et exécuter les plans de tests d'une appl</td>
-                                        <td>
-                                            <a href="./modifier-competence.php?Id=6" class="btn btn-xs btn-primary">Modifier</a>
-                                            <button class="btn btn-xs btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Supprimer</button>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                      <td>C7</td>
-                                      <td>déploiement</td>
-                                        <td>Préparer et exécuter le déploiement d'une applicat</td>
-                                        <td>Préparer et exécuter le déploiement d'une applicat</td>
-                                        <td>
-                                            <a href="./modifier-competence.php?Id=7" class="btn btn-xs btn-primary">Modifier</a>
-                                            <button class="btn btn-xs btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Supprimer</button>
-                                        </td>
-                                    </tr>
-
                                     <!-- en skills -->
                                 </tbody>
                             </table>
