@@ -50,3 +50,5 @@ php artisan make:controller TasksController
 ```
 php artisan serve
 ```
+## Référence
+[Lab-crud référence](https://github.com/labs-web/lab-crud)
