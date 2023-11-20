@@ -9,45 +9,44 @@ Le projet en cours consiste à développer une application CRUD (Create, Read, U
 - Ajouter la base de données incluant la table des projets dans les seeders
 
 ## Processus de travail
-1.Commencez par installer Laravel via le terminal avec cette commande :
+1. Commencez par installer Laravel via le terminal avec cette commande :
 
 ```
 composer create-project laravel/laravel=10 .
-
 ```
-2.Ensuite, créez le fichier .env à l'aide de la commande :
+
+2. Ensuite, créez le fichier .env à l'aide de la commande :
 ```
 cp .env.example .env
 ```
-3.Ajoutez les paramètres de la base de données au fichier .env
-4.Procédez à la création des tables en exécutant ces commandes :
+3. Ajoutez les paramètres de la base de données au fichier .env
+4. Procédez à la création des tables en exécutant ces commandes :
 ```
 php artisan make:migration Projects
 
 php artisan make:migration Tasks
 ```
-5.Une fois les noms de colonnes des tables définis, migrez-les vers la base de données avec la commande :
+5. Une fois les noms de colonnes des tables définis, migrez-les vers la base de données avec la commande :
 ```
 php artisan migrate
 ```
-6.Remplissez la base de données avec les informations du projet en créant un seeder et en exécutant :
+6. Remplissez la base de données avec les informations du projet en créant un seeder et en exécutant :
 
 ```
 php artisan db:seed
 ```
-7.Avec la table des tasks et seeder, générez des modèles pour les **Tasks** et les **Projects** avec les commandes suivants:
+7. Avec la table des tasks et seeder, générez des modèles pour les **Tasks** et **Projects** avec les commandes suivants:
 ```
 php artisan make:model Project
 
 php artisan make:model Task
 ```
-8.Créez des contrôleurs pour gérer les données de la base de données :
+8. Créez des contrôleurs pour gérer les données de la base de données :
 ```
 php artisan make:controller TasksController 
 ```
-9.Concevez et créez les pages nécessaires de s dans le répertoire **Views** des ressources et mettez à jour vos **Routes**.
-
-10.Pour afficher la progression de votre projet localement, exécutez cette commande
+9. Concevez et créez les pages nécessaires de s dans le répertoire **Views** des ressources et mettez à jour vos **Routes**.
+10. Pour afficher la progression de votre projet localement, exécutez cette commande
 ```
 php artisan serve
 ```
