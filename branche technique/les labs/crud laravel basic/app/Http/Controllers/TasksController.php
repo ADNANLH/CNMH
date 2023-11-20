@@ -32,13 +32,8 @@ class TasksController extends Controller
             'projetId'=> 'required',
             'description' => 'required'
         ]);
-
         $task::create($validateData);
         return redirect()->route('add.task')->with('success', 'tach a été ajouter avec succés');
     }
-
-
-
-
 
 }
