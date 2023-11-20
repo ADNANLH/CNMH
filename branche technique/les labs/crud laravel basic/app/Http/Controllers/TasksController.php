@@ -36,4 +36,28 @@ class TasksController extends Controller
         return redirect()->route('add.task')->with('success', 'tach a été ajouter avec succés');
     }
 
+    public function edit($id){
+        $task = Task::findOrFail($id);
+        $preojects = Project::all();
+        return view('edit', compact('task', 'projects'));
+    }
+
+    public function update(Request $request, $id){
+        $task = Task::findOrFail($id);
+        $validatedData = $request->validate([
+            'nom' => 'required| max:50',
+            'projetId' => 'required',
+            'description' => 'required'
+        ]);
+        $task->update($validatedData);
+        return redirect()->route('edit.task', ['id' => $task->id])->with('success', 'La tache a été modifier avec succés');
+    }
+
+    public function delete($id){
+        $task = Task::findOrFail($id);
+        $task->delete();
+        $tasks = Task::paginate(3);
+        return redirect('/')->with(compact('tasks'));
+    }
+
 }
