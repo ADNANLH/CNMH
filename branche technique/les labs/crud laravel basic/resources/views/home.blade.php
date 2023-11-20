@@ -7,8 +7,8 @@
        <thead> 
            <tr> 
                <th scope="col">Nom</th> 
-               <th scope="col">Prenom</th> 
-               <th scope="col">Action</th>
+               <th scope="col">Description</th> 
+               <th scope="col">Actions</th>
            </tr> 
        </thead> 
        <tbody id="search-result">

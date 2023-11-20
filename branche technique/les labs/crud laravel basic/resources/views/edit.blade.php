@@ -12,6 +12,7 @@
         @csrf
         @method('patch')
         <div class="mb-3">
+            <label for="projetId" class="form-label">Projet</label>
             <select name="projetId" id="">
                 @foreach ($projects as $project)
                     <option value="{{ $project->id }}" @if ($project->id == $task->projetId) selected @endif>
