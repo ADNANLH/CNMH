@@ -38,7 +38,7 @@ class TasksController extends Controller
 
     public function edit($id){
         $task = Task::findOrFail($id);
-        $preojects = Project::all();
+        $projects = Project::all();
         return view('edit', compact('task', 'projects'));
     }
 
