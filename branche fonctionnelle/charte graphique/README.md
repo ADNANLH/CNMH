@@ -9,11 +9,13 @@
 **Source :** Adobe colors<br>
 **Règle :** Monochrome de couleur #C4E5F2<br>
 **Arrière-plan :** *Blanc* à cause des diagrammes UML <br>
- #97B4BF <br>
- #537C8C <br>
- #C4E5F2 <br>
-  #234A59 <br>
-  #0A2733 <br>	
+```
+#97B4BF
+#537C8C 
+#C4E5F2 
+#234A59 
+#0A2733 	
+```
 
   ## Les fontes
 - **Arial** ( pour les textes ) : 
