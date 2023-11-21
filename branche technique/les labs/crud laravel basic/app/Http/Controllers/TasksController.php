@@ -56,8 +56,7 @@ class TasksController extends Controller
     public function delete($id){
         $task = Task::findOrFail($id);
         $task->delete();
-        $tasks = Task::paginate(3);
-        return redirect('/')->with(compact('tasks'));
+        return redirect('/');
     }
 
 }
