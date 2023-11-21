@@ -9,7 +9,13 @@
 **Source :** Adobe colors<br>
 **Règle :** Monochrome de couleur #C4E5F2<br>
 **Arrière-plan :** *Blanc* à cause des diagrammes UML <br>
-
+```
+#97B4BF
+#537C8C 
+#C4E5F2 
+#234A59 
+#0A2733 	
+```
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div style="background-color: #97B4BF; padding: 10px; margin: 10px; border-radius: 5px; width: 100px;">
     #97B4BF
