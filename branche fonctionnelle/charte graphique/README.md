@@ -16,6 +16,7 @@
 #234A59 
 #0A2733 	
 ```
+<html>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div style="background-color: #97B4BF; padding: 10px; margin: 10px; border-radius: 5px; width: 100px;">
     #97B4BF
@@ -33,6 +34,7 @@
     #0A2733
   </div>
 </div>
+</html>
 
 
   ## Les fontes
