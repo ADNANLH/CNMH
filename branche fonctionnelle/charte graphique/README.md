@@ -13,5 +13,13 @@
  #537C8C <br>
  #C4E5F2 <br>
   #234A59 <br>
-  #0A2733 <br>		  
+  #0A2733 <br>	
+
+  ## Les fontes
+- **Arial** ( pour les textes ) : 
+Mercury is the closest planet to the Sun and the smallest one in the Solar System—it’s only a bit larger than our Moon.<br>
+
+- **STAATLICHES** ( pour les titres )
+Mercury is the closest planet to the Sun and the smallest one in the Solar System—it’s only a bit larger than our Moon.
+	  
 
