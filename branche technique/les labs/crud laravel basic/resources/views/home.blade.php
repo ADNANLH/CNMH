@@ -37,8 +37,6 @@
     
             var page = $(this).attr('href').split('page=')[1];
             var searchValue = $('#search-input').val();
-            // console.log($(this).attr('href').split('page=')[1]);
-            // console.log($(this).attr('href').split('page='));
   
             fetchData(page, searchValue);
         });
