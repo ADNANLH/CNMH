@@ -16,25 +16,6 @@
 #234A59 
 #0A2733 	
 ```
-<html>
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="background-color: #97B4BF; padding: 10px; margin: 10px; border-radius: 5px; width: 100px;">
-    #97B4BF
-  </div>
-  <div style="background-color: #537C8C; padding: 10px; margin: 10px; border-radius: 5px; width: 100px;">
-     #537C8C
-  </div>
-  <div style="background-color: #C4E5F2; padding: 10px; margin: 10px; border-radius: 5px; width: 100px;">
-    #C4E5F2
-  </div>
-  <div style="background-color: #234A59; padding: 10px; margin: 10px; border-radius: 5px; width: 100px;">
-    #234A59
-  </div>
-  <div style="background-color: #0A2733; padding: 10px; margin: 10px; border-radius: 5px; width: 100px;">
-    #0A2733
-  </div>
-</div>
-</html>
 
 
   ## Les fontes
