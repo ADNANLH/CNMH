@@ -10930,7 +10930,7 @@ __webpack_require__(8674);
   } else {}
 })(void 0, function (CryptoJS) {
   /** @preserve
-  (c) 2012 by Cédric Mesnil. All rights reserved.
+  (c) 2012 by Cédric Mesnil. Tous droits réservés.
   	Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
   	    - Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
       - Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
@@ -26628,7 +26628,7 @@ function fromByteArray (uint8) {
 /***/ 4181:
 /***/ (function(module) {
 
-/* Copyright 2013 Google Inc. All Rights Reserved.
+/* Copyright 2013 Google Inc. Tous droits réservés.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -26759,7 +26759,7 @@ module.exports = BrotliBitReader;
 /***/ 7080:
 /***/ (function(__unused_webpack_module, exports) {
 
-/* Copyright 2013 Google Inc. All Rights Reserved.
+/* Copyright 2013 Google Inc. Tous droits réservés.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -27017,7 +27017,7 @@ exports.lookupOffsets = new Uint16Array([
 /***/ (function(__unused_webpack_module, exports, __webpack_require__) {
 
 var __webpack_unused_export__;
-/* Copyright 2013 Google Inc. All Rights Reserved.
+/* Copyright 2013 Google Inc. Tous droits réservés.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -27992,7 +27992,7 @@ module.exports="W5/fcQLn5gKf2XUbAiQ1XULX+TZz6ADToDsgqk6qVfeC0e4m6OO2wcQ1J76ZBVRV
 /***/ 5139:
 /***/ (function(__unused_webpack_module, exports, __webpack_require__) {
 
-/* Copyright 2013 Google Inc. All Rights Reserved.
+/* Copyright 2013 Google Inc. Tous droits réservés.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -28165,7 +28165,7 @@ exports.g = function(root_table, table, root_bits, code_lengths, code_lengths_si
 /***/ 8435:
 /***/ (function(__unused_webpack_module, exports) {
 
-/* Copyright 2013 Google Inc. All Rights Reserved.
+/* Copyright 2013 Google Inc. Tous droits réservés.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -28273,7 +28273,7 @@ exports.j = BrotliOutput;
 /***/ 2973:
 /***/ (function(__unused_webpack_module, exports, __webpack_require__) {
 
-/* Copyright 2013 Google Inc. All Rights Reserved.
+/* Copyright 2013 Google Inc. Tous droits réservés.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.

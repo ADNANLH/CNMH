@@ -1,6 +1,6 @@
 /**
 * Copyright (c) 2021, Leon Sorokin
-* All rights reserved. (MIT Licensed)
+* Tous droits réservés. (MIT Licensed)
 *
 * uPlot.js (μPlot)
 * A small, fast chart for time series, lines, areas, ohlc & bars
