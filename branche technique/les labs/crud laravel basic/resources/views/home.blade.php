@@ -47,7 +47,7 @@
             fetchData(page , searchValue);
         });
   
-       fetchData(1, '');
+    //    fetchData(1, '');
     });
 </script>
 
