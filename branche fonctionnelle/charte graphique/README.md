@@ -17,6 +17,8 @@
 #0A2733 	
 ```
 
+## Palette des couleurs
+![palette](couleurs.png)
 
   ## Les fontes
 - **Arial** ( pour les textes ) : 
