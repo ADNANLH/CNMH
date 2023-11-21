@@ -6,7 +6,7 @@
 ![CNMH](logo.jpg)
 
 ## les couleurs
-**Source :** Adobe colors<br>
+**Source :** [Adobe color](https://color.adobe.com/fr/create/color-wheel) <br>
 **Règle :** Monochrome de couleur #C4E5F2<br>
 **Arrière-plan :** *Blanc* à cause des diagrammes UML <br>
 ```
