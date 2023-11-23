@@ -31,4 +31,7 @@ Mercury is the closest planet to the Sun and the smallest one in the Solar Syste
 ![exemple](Capture.png)
 
 	  
+## Réferences
 
+[Slides Go](https://slidesgo.com)
+[Flat Design](https://www.usabilis.com/flat-design/)
