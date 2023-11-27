@@ -22,3 +22,5 @@ Le projet en cours vise à développer une application CRUD en utilisant le fram
 
 7. Filtrer par projets
     - Ajoutez la fonctionnalité permettant de filtrer les tâches en fonction des projets auxquels elles sont associées, offrant ainsi une organisation plus efficace.
+
+## Les commandes à utiliser avant le démarrage de l'application
