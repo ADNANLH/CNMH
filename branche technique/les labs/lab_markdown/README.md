@@ -16,4 +16,4 @@ Utilisez des en-têtes (#, ##, ###) pour chaque section de recette.
 [framasoft.org](https://docs.framasoft.org/fr/grav/markdown.html)
 
 ## Solution
-[smoothies aux fruits](https://docs.framasoft.org/fr/grav/markdown.html)
+[smoothies aux fruits](https://github.com/ADNANLH/CNMH/blob/main/branche%20technique/les%20labs/lab_markdown/les%20recette/solution.md)
