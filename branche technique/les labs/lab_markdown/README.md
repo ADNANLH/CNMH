@@ -6,7 +6,7 @@
 - 1 Création du Document : 
 Utilisez des en-têtes (#, ##, ###) pour chaque section de recette. 
 
-- 2 Inclure les Recettes : Choisissez jusqu'à 3 de vos plats préférés. Pour chaque plat, ajoutez une section avec le nom de la recette.
+- 2 utiliser des Liens : Utiliser les liens dans le document dirigent vers des ressources appropriées liées à chaque recette
 
 - 3 Instructions et Ingrédients : Utilisez des listes (-) pour énumérer les instructions et les ingrédients. Utilisez des sous-listes si nécessaire.
 
