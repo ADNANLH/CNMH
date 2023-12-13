@@ -21,14 +21,14 @@
 ![palette](couleurs.png)
 
   ## Les fontes
-- **Arial** ( pour les textes ) : 
-Mercury is the closest planet to the Sun and the smallest one in the Solar System—it’s only a bit larger than our Moon.<br>
+- **Roboto** ( pour les textes ) : 
 
-- **STAATLICHES** ( pour les titres )
-Mercury is the closest planet to the Sun and the smallest one in the Solar System—it’s only a bit larger than our Moon.
+
+- ** Fira Sans Extra Condensed (semi-gras) ** ( pour les titres )
 
 ### Exemple
-![exemple](Capture.png)
+![exemple](Capture1.png)<br>
+![exemple](Capture2.png)<br>
 
 	  
 ## Réferences
